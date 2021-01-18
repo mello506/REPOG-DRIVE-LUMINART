@@ -11,7 +11,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B] CATEGORIAS NO SERVIDOR REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR blue][B] CATEGORIAS NO SERVIDOR G-DRIVE[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA A CATEGORIAS DE CONTEÚDO PARA ASSISTIR</info>
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] FILMES NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES NO G-DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/2-SELFILMES-REDCAN</externallink>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -34,7 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] SÉRIES NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] SÉRIES NO G-DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/3-SERIES-REDCAN</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] NOVELAS NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] NOVELAS NO G-DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/1C-SELNOVELAS-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -58,7 +58,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] DESENHOS NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] DESENHOS NO G-DRIVE[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://</externallink>
@@ -70,7 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] SEÇÕES ESPECIAIS NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B] SEÇÕES ESPECIAIS NO G-DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVERREDCAN-LUMINART/main/4-ESPECIAIS-REDECAN</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
